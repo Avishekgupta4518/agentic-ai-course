@@ -1,0 +1,26 @@
+{
+  "name": "ai-agent-course",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000i\u0000-\u0000a\u0000g\u0000e\u0000n\u0000t\u0000-\u0000c\u0000o\u0000u\u0000r\u0000s\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avishekgupta4518/ai-agent-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avishekgupta4518/ai-agent-course/issues"
+  },
+  "homepage": "https://github.com/Avishekgupta4518/ai-agent-course#readme",
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0",
+    "nodemon": "^3.1.14",
+    "zod": "^4.6.7"
+  }
+}

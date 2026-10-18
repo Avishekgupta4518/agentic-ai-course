@@ -40,7 +40,6 @@ app.use(express.json());
 // });
 
 //project
-
 // app.post("/chat",async (req,res)=>{
 //     const {prompt} = req.body
 //     const result=await ai.models.generateContent({
